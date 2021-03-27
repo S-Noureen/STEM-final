@@ -1,0 +1,27 @@
+h1 {
+    color: #d42727;
+    font-weight: 3000px;
+    font-size: 4.5rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+
+h6 {
+    color: cadetblue;
+    size: 10pt;
+    animation-fill-mode: backwards;
+}
+
+p {
+    color: rgb(136, 56, 105);
+}
+
+.card-img-top {
+    height: 300px;
+    width: 250px;
+}
+
+.card-body {
+    height: 300px;
+}
