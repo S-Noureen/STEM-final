@@ -1,0 +1,10 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: efefef;
+    font-family: sans-serif;
+    background-image: url(https://cdn.statically.io/img/i.pinimg.com/originals/20/56/13/205613079a0bf3b9e33f6b6a890faf5f.jpg);
+}
